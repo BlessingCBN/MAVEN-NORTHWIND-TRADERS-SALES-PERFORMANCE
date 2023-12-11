@@ -19,7 +19,7 @@ I imported the dataset from Maven Analytics website. The dataset is a CSV file t
 
 ### Data modelling
 
-During visualisation, i noticed that the tables weren't fully interactive. I had to remodel the dataset and manage the relationships between the tables to achieve the required model for optimal insight.
+During visualization, i noticed that the tables weren't fully interactive. I had to remodel the dataset and manage the relationships between the tables to achieve the required model for optimal insight.
 
 
 
